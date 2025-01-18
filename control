@@ -1,9 +1,12 @@
-Package: jetsamctl
+Package: lol.nickchan.jetsamctl
+Name: overb0ard
 Depends: firmware (>= 7.0)
 Conflicts: com.doregon.overb0ard-dev, com.kramerapps.jetsamctl, com.doregon.overb0ard
 Replaces: com.kramerapps.jetsamctl
 Version: 1.1
-Architecture: @ARCH@
+Architecture: iphoneos-arm
 Description: Take control of your device's memory.
 Maintainer: Nick Chan <towinchenmi@gmail.com>
+Author: Conrad Kramer <conrad@kramerapps.com>
 Section: System
+Tag: role::hacker
