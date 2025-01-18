@@ -7,6 +7,6 @@ Version: 1.1
 Architecture: iphoneos-arm
 Description: Take control of your device's memory.
 Maintainer: Nick Chan <towinchenmi@gmail.com>
-Author: Conrad Kramer <conrad@kramerapps.com>
+Author: Nick Chan <towinchenmi@gmail.com>
 Section: System
 Tag: role::hacker
