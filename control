@@ -3,7 +3,7 @@ Name: overb0ard
 Depends: firmware (>= 7.0)
 Conflicts: com.doregon.overb0ard-dev, com.kramerapps.jetsamctl, com.doregon.overb0ard
 Replaces: com.kramerapps.jetsamctl
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Description: Take control of your device's memory.
 Maintainer: Nick Chan <towinchenmi@gmail.com>
